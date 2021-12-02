@@ -4,7 +4,7 @@ This is a simple To-Do List website. This Website is an example describes how to
 
 ## Website link
 
-[MyToDoList.io](https://raniamhelmy.github.io/jquerytodolist/)
+[MyToDoList.io](https://raniamhelmy.github.io/JQueryToDoList/)
 
 ## Technologies used to build this project
 
